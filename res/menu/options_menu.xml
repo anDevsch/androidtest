@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item android:title="刷新"
+            android:id="@+id/Menu4" />
+        <item android:title="设置"
+            android:id="@+id/Menu1" />
+        <item android:title="反馈"
+            android:id="@+id/Menu3" />
+        <item android:title="退出"
+            android:id="@+id/Menu2" />
+    </group>
+</menu>
